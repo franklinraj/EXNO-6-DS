@@ -1,5 +1,8 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
+## DEVELOPED BY: FRANKLIN RAJ G
+## REGISTER NO: 212223230058
+
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
@@ -18,7 +21,20 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
-
+![alt text](<DS-EXP-6.1 (1).png>)
+![alt text](DS-EXP-6.2.png)
+![alt text](DS-EXP-6.3.png) 
+![alt text](DS-EXP-6.4.png)
+![alt text](DS-EXP-6.5.png)
+![alt text](DS-EXP-6.6.png)
+![alt text](DS-EXP-6.7.png)
+![alt text](DS-EXP-6.8.png)
+![alt text](DS-EXP-6.9.png)
+![alt text](DS-EXP-6.10.png)
+![alt text](DS-EXP-6.11.png)
+![alt text](DS-EXP-6.12.png)
+![alt text](DS-EXP-6.13.png)
 # Result:
- Include your result here
+Thus, Data Visualization using seaborn python library for the given datas is executed.
+
+
